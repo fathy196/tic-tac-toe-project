@@ -1,0 +1,20 @@
+D:\semester 4\AI\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+D:\semester 4\AI\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+D:\semester 4\AI\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+D:\semester 4\AI\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.AssemblyReference.cache
+D:\semester 4\AI\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Form1.resources
+D:\semester 4\AI\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+D:\semester 4\AI\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.GenerateResource.cache
+D:\semester 4\AI\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+D:\semester 4\AI\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+D:\semester 4\AI\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb
+D:\semester 4\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+D:\semester 4\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+D:\semester 4\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+D:\semester 4\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.AssemblyReference.cache
+D:\semester 4\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Form1.resources
+D:\semester 4\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+D:\semester 4\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.GenerateResource.cache
+D:\semester 4\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+D:\semester 4\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+D:\semester 4\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb
